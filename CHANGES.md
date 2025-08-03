@@ -1,7 +1,7 @@
 Changes I Made:
 ---------------
 
-* As i Familiar with nodejs so I Rewrote the entire backend using Node.js with Express: Implemented a clean and modular API structure.
+* As I Familiar with nodejs so I Rewrote the entire backend using Node.js with Express: Implemented a clean and modular API structure.
 
 * Used SQLite for simplicity.
 
@@ -25,7 +25,7 @@ Changes I Made:
 
 * Prepared for future password encryption by importing bcrypt (though not used).
 
-* Structured the server to initialize DB and handle port dynamically using process.env.PORT.
+* Structured the server to initialize DB.
 
 Note on Including users.db:
 --------------------------
